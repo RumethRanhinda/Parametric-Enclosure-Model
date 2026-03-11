@@ -21,7 +21,7 @@ To generate a new variation of the enclosure, you only need to modify the Global
 ###  Primary Global Variables
 *Here is a list of the main variables you can tweak:*
 
-| Variable Name | Default Value / Equation | Description |
+| Variable Name | Default Value / Equation (mm)| Description |
 | :--- | :--- | :--- |
 | `"PCB_LEN"` | `70` | Length of the PCB |
 | `"PCB_WIDTH"` | `35` | Width of the PCB |
